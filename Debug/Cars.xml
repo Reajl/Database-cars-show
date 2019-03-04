@@ -1,0 +1,336 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Cars
+</name>
+</assembly>
+<members>
+<member name="T:Cars.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Cars.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Cars.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.АссортиментDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.ДоставкаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.ЗаказыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.КлиентыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.МаркиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.МенеджерыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.ПоставщикиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.Технические_данныеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.Типы_кузоваDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.ЦветDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.АссортиментRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.ДоставкаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.ЗаказыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.КлиентыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.МаркиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.МенеджерыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.ПоставщикиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.Технические_данныеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.Типы_кузоваRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.ЦветRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.АссортиментRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.ДоставкаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.ЗаказыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.КлиентыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.МаркиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.МенеджерыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.ПоставщикиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.Технические_данныеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.Типы_кузоваRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet.ЦветRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSetTableAdapters.АссортиментTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSetTableAdapters.ДоставкаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSetTableAdapters.ЗаказыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSetTableAdapters.КлиентыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSetTableAdapters.МаркиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSetTableAdapters.МенеджерыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSetTableAdapters.ПоставщикиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSetTableAdapters.Технические_данныеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSetTableAdapters.Типы_кузоваTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSetTableAdapters.ЦветTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Cars.Автосалон_2DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Cars.Автосалон_2DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Cars.Автосалон_2DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Cars.Автосалон_2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Cars.Автосалон_2DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Cars.Автосалон_2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Cars.Автосалон_2DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Cars.Автосалон_2DataSetTableAdapters.TableAdapterManager.UpdateAll(Cars.Автосалон_2DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet1.Запрос4DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet1.Запрос4Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet1.Запрос4RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet1TableAdapters.Запрос4TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Cars.Автосалон_2DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Cars.Автосалон_2DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Cars.Автосалон_2DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Cars.Автосалон_2DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Cars.Автосалон_2DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Cars.Автосалон_2DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Cars.Автосалон_2DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Cars.Автосалон_2DataSet1TableAdapters.TableAdapterManager.UpdateAll(Cars.Автосалон_2DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Cars.Автосалон_2DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
